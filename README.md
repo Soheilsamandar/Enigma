@@ -13,4 +13,5 @@ in this file you can create a new ROTOR alphabet
 ENIGMA :
 ==
 in this file you can CODE and DECODE the sentence using ENIGMA algorithm 
+==
 
