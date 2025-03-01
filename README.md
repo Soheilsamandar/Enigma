@@ -2,7 +2,7 @@ Enigma
 =================================================================================================================
 LIST
 
-1.generate_alphabet => Alphabet generation for each rotor
+1.generate_alphabet => Alphabet generation for each rotor==
 2.Enigma => convert to CODE and DECODE sentence
 
 generate_alphabet :
